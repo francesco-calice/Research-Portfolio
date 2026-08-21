@@ -34,6 +34,6 @@ The source code is maintained in the project’s collaborative public repository
 
 ## Project report
 
-[Read the final project report](./Direct_Detection_Dark_Matter_FC.pdf)
+[Read the final project report](./Direct_Detection_Dark_Matter.pdf)
 
 The report provides the complete derivations, modelling assumptions, comparisons with experimental results and discussion of the limitations of the toy model.
