@@ -30,7 +30,7 @@ The project received a mark of **86%**, the highest Bachelor’s research-projec
 
 The source code is maintained in the project’s collaborative public repository:
 
-**[View the original project repository](jn923/A-Critical-Review-of-Dark-Matter-Direct-Detection-Experiments)**
+**[View the original project repository](https://github.com/jn923/A-Critical-Review-of-Dark-Matter-Direct-Detection-Experiments)**
 
 ## Project report
 
