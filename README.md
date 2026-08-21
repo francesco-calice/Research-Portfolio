@@ -11,8 +11,8 @@ This repository contains selected reports, presentations, figures, and reproduci
 | Project | Focus | Methods | Available materials |
 |---|---|---|---|
 | [Heavy Neutral Lepton Phenomenology at CERN](cern-hnl-phenomenology/) | Background-inclusive projected sensitivity to heavy neutral leptons at ProtoDUNE-SP | Python, GENIE, HNLux, uproot, Awkward Array | No public materials yet available - summary report available by 27th August |
-| [Dark-Matter Direct Detection](dark-matter-direct-detection/) | First-principles modelling of WIMP event rates and experimental exclusion limits | Python, numerical integration, Standard Halo Model, Helm form factor, Poisson statistics | Research report, presentation, and selected code |
-| [Type Ia Supernovae in Cosmological Simulations](type-ia-supernovae/) | Supernova-rate modelling across large cosmological galaxy catalogues | Python, SQL, A+B and integrated star-formation-history models | Research summary report and selected code |
+| [Dark-Matter Direct Detection Bachelors Thesis](dark-matter-direct-detection/) | First-principles modelling of WIMP event rates and experimental exclusion limits | Python, numerical integration, Standard Halo Model, Helm form factor, Poisson statistics | Research report, presentation, and selected code |
+| [Type Ia Supernovae in Cosmological Simulations UROP](type-ia-supernovae/) | Supernova-rate modelling across large cosmological galaxy catalogues | Python, SQL, A+B and integrated star-formation-history models | Research summary report and selected code |
 | [Machine Learning in Chaotic Systems](chaotic-systems-ml/) | RNN and LSTM forecasting of simulated chaotic triple-pendulum trajectories | Python, recurrent neural networks, GPU training, HPC | Project report, presentation, and selected code |
 
 ## Technical Methods
