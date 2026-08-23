@@ -1,10 +1,10 @@
 # Francesco Calice — Research Portfolio
 
-I am an incoming MSc student in Quantum Fields and Fundamental Forces at Imperial College London, having completed a First Class BSc in Physics with Theoretical Physics.
+I am an incoming MSc student in Quantum Fields and Fundamental Forces at Imperial College London, and have just finished a First Class BSc in Physics with Theoretical Physics.
 
 My research interests include particle phenomenology, physics beyond the Standard Model, scientific machine learning, and the use of physical structure and symmetry in computational models.
 
-This repository contains selected reports, presentations, figures, and reproducible or sanitised code from my research and computational projects.
+This repository contains selected reports, presentations, figures, and in some cases code from a few of my research and computational projects.
 
 ## Selected Research
 
@@ -26,9 +26,9 @@ This repository contains selected reports, presentations, figures, and reproduci
 
 ## Access and Attribution
 
-This is a curated portfolio rather than a complete archive. Some projects used internal datasets, collaboration software, restricted computing infrastructure, or unpublished results. These components are not redistributed here.
+This is a curated portfolio rather than a complete archive. Some projects used internal datasets or unpublished results that I have not shared here.
 
-Each project page identifies the relevant supervisors and collaborators, describes my individual contribution, and explains any restrictions on the available material. Reports and presentations remain the work of their named authors.
+Each project page identifies the relevant supervisors and collaborators, and explains any restrictions on the available material. Reports and presentations remain the work of their named authors.
 
 ## Contact
 
