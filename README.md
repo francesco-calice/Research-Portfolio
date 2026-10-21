@@ -10,7 +10,7 @@ This repository contains selected reports, presentations, figures, and in some c
 
 | Project | Focus | Methods | Available materials |
 |---|---|---|---|
-| [Heavy Neutral Lepton Phenomenology at CERN](cern-hnl-phenomenology/) | Background-inclusive projected sensitivity to heavy neutral leptons at ProtoDUNE-SP | Python, GENIE, HNLux, uproot, Awkward Array | No public materials yet available - summary report available by 27th August |
+| [Heavy Neutral Lepton Phenomenology at CERN](cern-hnl-phenomenology/) | Background-inclusive projected sensitivity to heavy neutral leptons at ProtoDUNE-SP | Python, GENIE, HNLux, Root| Research report and CERN presentation |
 | [Dark-Matter Direct Detection Bachelors Thesis](dark-matter-direct-detection/) | First-principles modelling of WIMP event rates and experimental exclusion limits | Python, numerical integration, Standard Halo Model, Helm form factor, Poisson statistics | Research report, presentation, and selected code |
 | [Type Ia Supernovae in Cosmological Simulations UROP](type-ia-supernovae/) | Supernova-rate modelling across large cosmological galaxy catalogues | Python, SQL, A+B and integrated star-formation-history models | Research summary report and selected code |
 
