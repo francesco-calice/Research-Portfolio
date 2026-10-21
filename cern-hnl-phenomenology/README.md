@@ -34,6 +34,6 @@ The source code is maintained in the project’s collaborative public repository
 **[View the final report](https://repository.cern/records/h6sg8-q0q56?preview_file=HNL_ProtoDUNE.pdf)**
 
 
-[View the Project Presentation](./CERN_final_pres (1).pdf)
+[View the Project Presentation](./CERN_final_pres.pdf)
 
 
