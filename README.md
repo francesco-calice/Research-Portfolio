@@ -4,7 +4,7 @@
 
 ## [Linkedin](www.linkedin.com/in/francesco-calice)
 
-I am an incoming MSc student in Quantum Fields and Fundamental Forces at Imperial College London, and have just finished a First Class BSc in Physics with Theoretical Physics.
+I am an MSc student in Quantum Fields and Fundamental Forces at Imperial College London, and have just finished a First Class BSc in Physics with Theoretical Physics.
 
 My research interests include particle phenomenology, physics beyond the Standard Model, and the use of physical structure and symmetry in neural networks design and interpretability.
 
