@@ -27,9 +27,13 @@ The project investigated the sensitivity of ProtoDUNE-SP to heavy neutral lepton
 
 The analysis code, simulation samples, detailed numerical results and internal presentation materials are not currently public. This work was conducted within the CERN and DUNE research environment, and the release of collaboration material is subject to the relevant data, review and publication policies.
 
-A public version of my CERN Summer Student summary report is available here on CERN Document Servers: https://repository.cern/records/h6sg8-q0q56?preview_file=HNL_ProtoDUNE.pdf
+## Final Report and Presentation
 
- - or here in pdf form: 
+The source code is maintained in the project’s collaborative public repository:
 
-Final Presentation is available here:
+**[View the final report](https://repository.cern/records/h6sg8-q0q56?preview_file=HNL_ProtoDUNE.pdf)**
+
+
+[View the Project Presentation](./Direct_Detection_Dark_Matter.pdf)
+
 
