@@ -25,13 +25,11 @@ The project investigated the sensitivity of ProtoDUNE-SP to heavy neutral lepton
 
 ## Public availability
 
-The analysis code, simulation samples, detailed numerical results and internal presentation materials are not currently public. This work was conducted within the CERN and DUNE research environment, and the release of collaboration material is subject to the relevant data, review and publication policies. I therefore cannot distribute these materials without the appropriate collaboration approval.
+The analysis code, simulation samples, detailed numerical results and internal presentation materials are not currently public. This work was conducted within the CERN and DUNE research environment, and the release of collaboration material is subject to the relevant data, review and publication policies.
 
-A public version of my CERN Summer Student summary report will be available in this repository from **27 August 2026**.
+A public version of my CERN Summer Student summary report is available here on CERN Document Servers:
 
-## Summary report
+ - or here in pdf form: 
 
-**Forthcoming — 27 August 2026**
-
-Once released, the report will provide a self-contained account of the project and the publicly shareable results.
+Final Presentation is available here:
 
