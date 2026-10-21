@@ -1,8 +1,8 @@
 # Francesco Calice — Research Portfolio
 
-## [CV](CV_Francesco_Calice.pdf)
+# [CV](CV_Francesco_Calice.pdf)
 
-# [Linkedin](www.linkedin.com/in/francesco-calice)
+## [Linkedin](www.linkedin.com/in/francesco-calice)
 
 I am an incoming MSc student in Quantum Fields and Fundamental Forces at Imperial College London, and have just finished a First Class BSc in Physics with Theoretical Physics.
 
