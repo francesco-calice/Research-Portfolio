@@ -2,7 +2,7 @@
 
 I am an incoming MSc student in Quantum Fields and Fundamental Forces at Imperial College London, and have just finished a First Class BSc in Physics with Theoretical Physics.
 
-My research interests include particle phenomenology, physics beyond the Standard Model, scientific machine learning, and the use of physical structure and symmetry in computational models.
+My research interests include particle phenomenology, physics beyond the Standard Model, and the use of physical structure and symmetry in neural networks design and interpretability.
 
 This repository contains selected reports, presentations, figures, and in some cases code from a few of my research and computational projects.
 
