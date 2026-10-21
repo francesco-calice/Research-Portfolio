@@ -10,9 +10,9 @@ This repository contains selected reports, presentations, figures, and in some c
 
 | Project | Focus | Methods | Available materials |
 |---|---|---|---|
-| [Heavy Neutral Lepton Phenomenology at CERN](cern-hnl-phenomenology/) | Background-inclusive projected sensitivity to heavy neutral leptons at ProtoDUNE-SP | Python, GENIE, HNLux, Root| [Research report](cern-hnl-phenomenology/HNL_ProtoDUNE.pdf) and [CERN presentation](https://github.com/francesco-calice/Research-Portfolio/edit/main/README.md#:~:text=cern%2Dhnl%2Dphenomenology-,CERN_final_pres,-.pdf) |
-| [Dark-Matter Direct Detection Bachelors Thesis](dark-matter-direct-detection/) | First-principles modelling of WIMP event rates and experimental exclusion limits | Python, numerical integration, Standard Halo Model, Helm form factor, Poisson statistics | Research report, presentation, and selected code |
-| [Type Ia Supernovae in Cosmological Simulations UROP](type-ia-supernovae/) | Supernova-rate modelling across large cosmological galaxy catalogues | Python, SQL, A+B and integrated star-formation-history models | Research summary report and selected code |
+| [Heavy Neutral Lepton Phenomenology at CERN](cern-hnl-phenomenology/) | Background-inclusive projected sensitivity to heavy neutral leptons at ProtoDUNE-SP | Python, GENIE, HNLux, Root| [Research report](cern-hnl-phenomenology/HNL_ProtoDUNE.pdf) and [CERN presentation](cern-hnl-phenomenology/CERN_final_pres.pdf) |
+| [Dark-Matter Direct Detection Bachelors Thesis](dark-matter-direct-detection/) | First-principles modelling of WIMP event rates and experimental exclusion limits | Python, numerical integration, Standard Halo Model, Helm form factor, Poisson statistics | [Research report](dark-matter-direct-detection/Direct_Detection_Dark_Matter.pdf), and selected code |
+| [Type Ia Supernovae in Cosmological Simulations UROP](type-ia-supernovae/) | Supernova-rate modelling across large cosmological galaxy catalogues | Python, SQL, A+B and integrated star-formation-history models | [Research summary report](type-1a-supernovae/SNIa_paper_FC.pdf) and selected code |
 
 ## Technical Methods
 
